@@ -11,7 +11,7 @@ Link Dataset: < https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale
 
 Problem: regression   
 
-Final Model: Random Forest  
+Final Model: Regression
 
 Link Repositori: <https://github.com/Bisma14/Final-Project-Kelompok-5-.git>  
 
